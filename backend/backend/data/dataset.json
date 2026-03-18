@@ -1,0 +1,1102 @@
+[
+    {
+        "url": "http://example0.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 9,
+            "num_password_inputs": 0,
+            "num_links": 6,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example1.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 3,
+            "num_password_inputs": 1,
+            "num_links": 30,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example2.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 10,
+            "num_password_inputs": 1,
+            "num_links": 41,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example3.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 7,
+            "num_password_inputs": 1,
+            "num_links": 33,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example4.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 41,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example5.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 2,
+            "num_password_inputs": 0,
+            "num_links": 43,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example6.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 9,
+            "num_password_inputs": 1,
+            "num_links": 32,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example7.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 30,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example8.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 12,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example9.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 5,
+            "num_password_inputs": 1,
+            "num_links": 15,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example10.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 8,
+            "num_password_inputs": 1,
+            "num_links": 28,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example11.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 25,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example12.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 7,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example13.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 2,
+            "num_password_inputs": 0,
+            "num_links": 11,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example14.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 30,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example15.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 2,
+            "num_password_inputs": 0,
+            "num_links": 28,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example16.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 4,
+            "num_password_inputs": 0,
+            "num_links": 25,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example17.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 4,
+            "num_password_inputs": 1,
+            "num_links": 32,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example18.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 4,
+            "num_password_inputs": 0,
+            "num_links": 6,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example19.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 46,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example20.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 2,
+            "num_password_inputs": 0,
+            "num_links": 34,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example21.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 40,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example22.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 6,
+            "num_password_inputs": 0,
+            "num_links": 31,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example23.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 31,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example24.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 39,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example25.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 4,
+            "num_password_inputs": 0,
+            "num_links": 40,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example26.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 47,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example27.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 10,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example28.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 28,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example29.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 10,
+            "num_password_inputs": 1,
+            "num_links": 35,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example30.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 4,
+            "num_password_inputs": 1,
+            "num_links": 49,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example31.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 4,
+            "num_password_inputs": 0,
+            "num_links": 25,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example32.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 27,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example33.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 4,
+            "num_password_inputs": 0,
+            "num_links": 46,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example34.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 31,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example35.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 10,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example36.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 2,
+            "num_password_inputs": 0,
+            "num_links": 37,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example37.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 8,
+            "num_password_inputs": 1,
+            "num_links": 18,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example38.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 7,
+            "num_password_inputs": 1,
+            "num_links": 25,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example39.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 4,
+            "num_password_inputs": 0,
+            "num_links": 47,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example40.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 10,
+            "num_password_inputs": 1,
+            "num_links": 47,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example41.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 21,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example42.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 10,
+            "num_password_inputs": 1,
+            "num_links": 22,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example43.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 10,
+            "num_password_inputs": 0,
+            "num_links": 33,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example44.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 16,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example45.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 4,
+            "num_password_inputs": 0,
+            "num_links": 28,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example46.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 7,
+            "num_password_inputs": 1,
+            "num_links": 5,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example47.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 9,
+            "num_password_inputs": 0,
+            "num_links": 31,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example48.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 7,
+            "num_password_inputs": 0,
+            "num_links": 10,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example49.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 44,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example50.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 28,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example51.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 2,
+            "num_password_inputs": 0,
+            "num_links": 50,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example52.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 16,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example53.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 10,
+            "num_password_inputs": 0,
+            "num_links": 11,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example54.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 33,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example55.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 21,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example56.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 4,
+            "num_password_inputs": 0,
+            "num_links": 18,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example57.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 2,
+            "num_password_inputs": 0,
+            "num_links": 20,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example58.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 9,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example59.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 10,
+            "num_password_inputs": 1,
+            "num_links": 48,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example60.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 10,
+            "num_password_inputs": 1,
+            "num_links": 14,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example61.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 2,
+            "num_password_inputs": 0,
+            "num_links": 21,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example62.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 6,
+            "num_password_inputs": 1,
+            "num_links": 40,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example63.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 4,
+            "num_password_inputs": 1,
+            "num_links": 22,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example64.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 4,
+            "num_password_inputs": 1,
+            "num_links": 21,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example65.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 6,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example66.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 7,
+            "num_password_inputs": 1,
+            "num_links": 43,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example67.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 49,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example68.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 4,
+            "num_password_inputs": 0,
+            "num_links": 9,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example69.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 23,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example70.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 25,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example71.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 6,
+            "num_password_inputs": 1,
+            "num_links": 5,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example72.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 8,
+            "num_password_inputs": 1,
+            "num_links": 20,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example73.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 39,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example74.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 6,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example75.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 9,
+            "num_password_inputs": 0,
+            "num_links": 13,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example76.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 4,
+            "num_password_inputs": 0,
+            "num_links": 6,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example77.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 10,
+            "num_password_inputs": 0,
+            "num_links": 33,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example78.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 38,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example79.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 4,
+            "num_password_inputs": 0,
+            "num_links": 41,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example80.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 4,
+            "num_password_inputs": 1,
+            "num_links": 43,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example81.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 7,
+            "num_password_inputs": 1,
+            "num_links": 37,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example82.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 48,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example83.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 47,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example84.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 5,
+            "num_password_inputs": 1,
+            "num_links": 47,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example85.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 9,
+            "num_password_inputs": 1,
+            "num_links": 42,
+            "num_iframes": 3
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example86.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 2,
+            "num_password_inputs": 0,
+            "num_links": 21,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example87.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 7,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example88.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 2,
+            "num_password_inputs": 0,
+            "num_links": 24,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example89.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 8,
+            "num_password_inputs": 1,
+            "num_links": 36,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example90.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 50,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example91.xyz",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 3,
+            "num_password_inputs": 1,
+            "num_links": 20,
+            "num_iframes": 1
+        },
+        "label": 1
+    },
+    {
+        "url": "https://example92.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 16,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example93.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 33,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example94.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 3,
+            "num_password_inputs": 0,
+            "num_links": 19,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example95.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 37,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example96.com",
+        "features": {
+            "num_forms": 1,
+            "num_inputs": 5,
+            "num_password_inputs": 0,
+            "num_links": 30,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "https://example97.com",
+        "features": {
+            "num_forms": 0,
+            "num_inputs": 1,
+            "num_password_inputs": 0,
+            "num_links": 39,
+            "num_iframes": 0
+        },
+        "label": 0
+    },
+    {
+        "url": "http://example98.xyz",
+        "features": {
+            "num_forms": 2,
+            "num_inputs": 3,
+            "num_password_inputs": 1,
+            "num_links": 11,
+            "num_iframes": 2
+        },
+        "label": 1
+    },
+    {
+        "url": "http://example99.xyz",
+        "features": {
+            "num_forms": 3,
+            "num_inputs": 6,
+            "num_password_inputs": 0,
+            "num_links": 23,
+            "num_iframes": 3
+        },
+        "label": 1
+    }
+]

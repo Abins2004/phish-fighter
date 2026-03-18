@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+venv/
+env/
+.venv/
+
+# Machine Learning Datasets (Do NOT upload massive Kaggle CSVs to GitHub!)
+backend/data/*.csv
+backend/data/*.pkl
+backend/data/models/email_kaggle_trained.flag
+
+# Node & React Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.nx/
+.npm/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Chrome Extension build (can regenerate easily, but usually safe to ignore or commit)
+# frontend/dist/ (Ignored above)

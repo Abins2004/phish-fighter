@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Phish Fighter Analyzer",
+  "version": "1.0",
+  "description": "Multi-Modal Phishing Analysis Engine AI",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Scan Page with AI"
+  },
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["http://localhost:8000/*"]
+}
