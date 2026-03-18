@@ -32,7 +32,7 @@ A full-stack AI-powered phishing detection system based on HTML structural analy
 1. `cd frontend`
 2. `npm install`
 3. `npm run dev`
-*Frontend running at http://localhost:5173*
+*Frontend running at http://localhost:5174*
 
 ## API Endpoints
 
